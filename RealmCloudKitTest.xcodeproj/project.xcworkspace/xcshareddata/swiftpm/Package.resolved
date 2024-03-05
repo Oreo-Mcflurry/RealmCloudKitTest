@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "icecream",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/caiyue1993/IceCream",
+      "state" : {
+        "revision" : "e1d07b31bd0e1a65b89ac72f629f4df6f6707fd3",
+        "version" : "2.1.0"
+      }
+    },
+    {
+      "identity" : "realm-cocoa",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-cocoa",
+      "state" : {
+        "revision" : "fa43b8e2909334c79f233ce472332c136ca108da",
+        "version" : "4.4.1"
+      }
+    },
+    {
+      "identity" : "realm-core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-core",
+      "state" : {
+        "revision" : "35662ff940e340bf630ad1d1d88acfc7af18bee6",
+        "version" : "5.23.8"
+      }
+    }
+  ],
+  "version" : 2
+}
